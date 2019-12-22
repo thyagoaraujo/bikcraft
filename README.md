@@ -1,5 +1,9 @@
 Criação do Bikcraft, site institucional de empresa de mesmo nome, focada em venda de bicicletas personalizadas. Projeto baseado no Curso Web Design Completo da Origamid.
 
+### Demo
+
+[Live Preview](https://bikcraft-th.netlify.com/)
+
 ## :books: Technologies
 
 This project was developed with the following technologies:
